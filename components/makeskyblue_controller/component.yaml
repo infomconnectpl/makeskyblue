@@ -1,1 +1,7 @@
-name: "MakeSkyBlue Controller"
+esphome:
+  name: makeskyblue_controller
+  platform: ESP32
+  board: esp32dev
+
+dependencies: []
+globals: []
